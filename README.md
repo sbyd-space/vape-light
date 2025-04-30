@@ -23,7 +23,7 @@ Images and visualizations are licensed under CC BY 4.0
 
 The kit, workshop and zine were developed in the project ["Sustainability by Design"][sbyd] as part of the “Innovative University” funding line and is supported by the German Federal Ministry of Education and Research (BMBF) and the Joint Science Conference (GWK).
 
-[zine]: https://sbyd.space/en/projects/sbyd-zine-03-vapes-to-flashlights/
+[zine]: https://sbyd.space/wp-content/uploads/2024/09/SBYD-Zine_3_WEB.pdf
 [sbyd]: https://sbyd.space/en/
 
 [kicad]: https://www.kicad.org
