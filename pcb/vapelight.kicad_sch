@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "vapelight")
-		(date "2025-03-05")
-		(rev "E")
+		(date "2025-05-22")
+		(rev "F")
 		(company "SBYD")
 	)
 	(lib_symbols
@@ -8938,7 +8938,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "180"
+		(property "Value" "1k"
 			(at 67.31 41.9099 0)
 			(effects
 				(font
@@ -8974,7 +8974,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22828"
+		(property "LCSC" "C21190"
 			(at 64.77 40.64 0)
 			(effects
 				(font
@@ -9128,7 +9128,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C571338"
+		(property "LCSC" "C318886"
 			(at 43.18 173.99 0)
 			(effects
 				(font

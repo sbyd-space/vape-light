@@ -1,8 +1,8 @@
 {
     "layout": {
         "alternation": "cols",
-        "hspace": "3mm",
-        "vspace": "3mm",
+        "hspace": "2.5mm",
+        "vspace": "2.5mm",
         "hbackbone": "5mm",
         "hboneskip": "1",
         "rows": "4",
@@ -39,7 +39,7 @@
         "width": "2mm",
         "height": "2mm",
         "thickness": "0.4mm",
-        "text": "SBYD VAPE LIGHT Rev.E 03/2025"
+        "text": "SBYD VAPE LIGHT Rev.F 05/2025"
     },
     "text2": {
         "type": "simple",

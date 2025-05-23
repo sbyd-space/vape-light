@@ -1,0 +1,63 @@
+{
+    "layout": {
+        "hspace": "2.5mm",
+        "vspace": "2.5mm",
+        "hbackbone": "5mm",
+        "vbackbone": "5mm",
+        "hboneskip": "2",
+        "rows": "6",
+        "cols": "2",
+        "renamenet": "{n}-{orig}",
+        "renameref": "{n}-{orig}"
+    },
+    "tabs": {
+        "type": "annotation",
+        "fillet": "0.2mm"
+    },
+    "cuts": {
+        "type": "mousebites"
+    },
+    "framing": {
+        "type": "frame",
+        "mintotalheight": "75mm",
+        "mintotalwidth": "75mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "size": "1.152mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "4.5mm",
+        "voffset": "4.5mm",
+        "opening": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2.5mm",
+        "width": "2mm",
+        "height": "2mm",
+        "thickness": "0.4mm",
+        "text": "SBYD VAPE LIGHT Rev.F 05/2025"
+    },
+    "text2": {
+        "type": "simple",
+        "hoffset": "-2mm",
+        "width": "2mm",
+        "height": "2mm",
+        "thickness": "0.4mm",
+        "text": "WER BILLIG KAUFT        KAUFT DOPPELT",
+        "anchor": "c"
+    },
+    "text3": {
+        "type": "simple",
+        "voffset": "-2.5mm",
+        "text": "https://github.com/sbyd-space/vape-light",
+        "anchor": "mb"
+    },
+    "post": {
+        "millradius": "0.5mm"
+    }
+}

@@ -1,5 +1,5 @@
-// Revision E
-// 25.03.2025
+// Revision F
+// 05/2025
 
 //part of https://github.com/sbyd-space/vape-light
 
@@ -9,7 +9,7 @@
 $fn=128;  //resolution
 
 h_lower=5; //length of lower part inside the tube
-d_lower=15.5; //diameter of lower part inside the tube
+d_lower=15.6; //diameter of lower part inside the tube
 thickness_end=7; //thickness of upper end
 
 d_upper=16.2; //diameter of rim of upper part

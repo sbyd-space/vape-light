@@ -9,8 +9,8 @@
 	(paper "A5")
 	(title_block
 		(title "vapelight")
-		(date "2025-03-05")
-		(rev "E")
+		(date "05/2025")
+		(rev "F")
 		(company "SBYD")
 	)
 	(layers
@@ -254,7 +254,7 @@
 		(property ki_fp_filters "SOT?23* Texas?R-PDSO-G5?DCK* Texas?R-PDSO-N5?DRL* Texas?X2SON*0.8x0.8mm*P0.48mm*")
 		(path "/da7c5263-d288-4f88-a936-939ef793a4f6")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -575,7 +575,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/09ff77ad-5c59-4efa-b874-5e51c03fda04")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -825,7 +825,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/664146c3-4435-467b-87d2-236595c07f07")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1033,7 +1033,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SolderJumper*Bridged123*")
 		(path "/ef876faa-1099-48b6-9fab-6b894c85f22f")
+		(sheetname "Root")
+		(sheetfile "vapelight.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1,2,3")
@@ -1379,7 +1382,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/164e8e4e-1287-4905-878a-614b7a89ac84")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1553,7 +1556,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bb98f14c-5cb3-41aa-9a97-5b901e9d61b6")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1790,7 +1793,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c45a99c6-defa-4b81-9214-8d6e7c51a2df")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -2049,7 +2052,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b351bd45-0f72-4bb7-9bed-2b9373268afd")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2193,7 +2196,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -0.75 -1)
@@ -2341,7 +2344,7 @@
 		(property ki_fp_filters "TSOT?23*")
 		(path "/af5d692d-754a-4479-85dc-320904af07aa")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -2622,7 +2625,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 1)
 			(end 0.25 -1)
@@ -2769,7 +2772,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6001254c-53cb-4654-90be-8e27d01f8e8b")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -3019,7 +3022,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ec3693e7-fb84-4091-8923-caf8f3557139")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -3226,7 +3229,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -0.75 -1)
@@ -3357,7 +3360,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/3e720d1e-e053-46bb-8471-fe9e52e3b08e")
+		(sheetname "Root")
+		(sheetfile "vapelight.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1,2")
@@ -3703,7 +3709,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7ce7bd6e-9e62-4c96-b2a9-8e7cad964ac3")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -3940,7 +3946,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ecc40618-0899-4b18-ba3c-2aab91ffff7e")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4127,7 +4133,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8a67ea93-46e4-49f2-83ca-c0848cf9f736")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4364,7 +4370,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00564c87-28bc-4bf7-85e2-c9fd742e84e9")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4539,7 +4545,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b73ffc02-249f-4941-9bb9-c6031333baac")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -0.85)
@@ -4847,7 +4853,7 @@
 		)
 		(path "/ac813a90-d09b-4840-bbb8-5bda5e82c9dc")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -5092,7 +5098,7 @@
 				)
 			)
 		)
-		(property "Value" "180"
+		(property "Value" "1k"
 			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(uuid "5ef23088-350d-4781-aa53-afde17fea1c2")
@@ -5139,7 +5145,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C22828"
+		(property "LCSC" "C21190"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5168,7 +5174,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/70670f23-7fcf-4929-ba3f-d5680a51f943")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -5405,7 +5411,7 @@
 		(property ki_fp_filters "SOT* SC*")
 		(path "/2ca03dd2-b9dc-4234-89ea-a550a1085f9e")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -5696,7 +5702,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 1)
 			(end 0.25 -1)
@@ -5844,7 +5850,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e52d3000-d8c7-437c-8d8a-4f15ceb28230")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -6082,7 +6088,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8f6a3e5e-7e46-4e2e-9ceb-90fbbf285210")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -6332,7 +6338,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/945dfb31-0147-4110-bd4e-d5ea55249326")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -6582,7 +6588,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7baa4ad5-b246-4922-9d1e-0bb09975c1b3")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6819,7 +6825,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/aebda8e8-15aa-43d7-b578-1501c5a88f21")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -7026,7 +7032,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 1)
 			(end 0.25 -1)
@@ -7068,7 +7074,7 @@
 			(uuid "550e1553-946c-4297-9b9b-79e668f624da")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 0)
+			(at -5.5 0 180)
 			(layer "Dwgs.User")
 			(uuid "cd6f908a-be5d-4f1e-8b88-6d4f6312e972")
 			(effects
@@ -7176,7 +7182,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/0c68b93b-beff-4c48-bebd-f5f042523dde")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 1.4)
@@ -7360,7 +7366,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dacaba9b-b924-4aa8-858b-f8c569a8767d")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -7596,7 +7602,7 @@
 		)
 		(path "/68a2e091-488b-417f-8d43-f221269cf0ad")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -7930,7 +7936,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8d33ac1e-a93f-4426-830b-a36f0dfb5a8b")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -8170,7 +8176,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/6782ebd8-5a37-40aa-a06c-638f2d7da064")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 1.4)
@@ -8341,7 +8347,7 @@
 		(property ki_fp_filters "TSOT?23*")
 		(path "/49664045-015d-4f86-9a58-94bcf0d6a703")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -8652,7 +8658,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e39d172d-3fda-4baa-9981-9d2a7e651764")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -8889,7 +8895,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d4b07061-17de-4d52-878e-151b4a75c11a")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -9096,7 +9102,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -0.75 -1)
@@ -9214,7 +9220,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C571338"
+		(property "LCSC" "C318886"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9242,7 +9248,7 @@
 		)
 		(path "/72349648-f7b2-42d6-b1a0-698dcc7f6e2e")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.3 2.75)
@@ -9764,7 +9770,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/69a286d8-1510-47cf-a292-31381f7f8887")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -10075,7 +10081,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/2e17cb3e-6947-4d4d-bd1c-71431ff23096")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 0.85)
@@ -10384,7 +10390,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "USB*")
 		(path "/9340922d-24f5-46d5-b6b1-65557043c603")
+		(sheetname "Root")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 11.5 90)
@@ -10563,7 +10572,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/375d25d5-60b3-42c2-b058-5dc8a67a0041")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -0.85)
@@ -10872,7 +10881,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8e20a540-2130-40cd-8820-13fc48a03a93")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -11110,7 +11119,7 @@
 		(property ki_fp_filters "SG-* SOT*")
 		(path "/b9ffb641-63ae-4b5a-b89a-94c1ed49c866")
 		(sheetname "Root")
-		(sheetfile "SBYD_vape.kicad_sch")
+		(sheetfile "vapelight.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -11598,7 +11607,7 @@
 			(justify right mirror)
 		)
 	)
-	(gr_text "Rev.E  03/2025\nCERN OHL P 2.0\nhttps://\n  github.com/\n    sbyd-space/\n      vape-light"
+	(gr_text "Rev.${REVISION}  ${ISSUE_DATE}\nCERN OHL P 2.0\nhttps://\n  github.com/\n    sbyd-space/\n      vape-light"
 		(at 70.5 62 180)
 		(layer "B.SilkS")
 		(uuid "72bef88b-246a-4f4a-83b7-d7ac40f57b7b")
@@ -11663,7 +11672,7 @@
 		)
 	)
 	(gr_text "PCB3D_BR_vape"
-		(at 125.5 74 0)
+		(at 128 74 0)
 		(layer "User.1")
 		(uuid "8ecbdf38-8fea-4522-bbe3-c1005ce57a9d")
 		(effects

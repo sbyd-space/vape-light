@@ -11,7 +11,7 @@ The kit is used in workshops to educate about:
 
 It is accompanied by a [zine][zine] containing contextual information about these topics and instructions for assembly.
 
-![rendering of the pcb](/images/panel_front.jpg)
+![rendering of the pcb](/images/panel_4.jpg)
 *rendering of the pcb by Steffen Hartwig, licensed under CC BY 4.0*
 
 The pcbs were developed with [KiCad 8.0][kicad].  
