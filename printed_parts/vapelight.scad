@@ -1,5 +1,5 @@
-// Revision F
-// 05/2025
+// for PCB revision F
+// 06/2025
 
 //part of https://github.com/sbyd-space/vape-light
 
@@ -35,12 +35,16 @@ h_button=6; //height of button above tube
     
         
     translate([0,0,h_button])rotate([-90,0,0])cylinder(h=d_upper/2,r=d_button/2); // cutout for button cap
-    translate([0,1.2,h_button])rotate([-90,0,0])cylinder(h=1.6,r1=3.35,r2=2.6); // cutout for button body
+    hull(){ // cutout for button body and legs
+        translate([-1.6,1.2,h_button])rotate([-90,0,0])cylinder(h=1.6,r1=3.35,r2=2.6);
+        translate([1.6,1.2,h_button])rotate([-90,0,0])cylinder(h=1.6,r1=3.35,r2=2.6);
+    }
     translate([4.5,0,h_button])rotate([-90,0,0])cylinder(h=10,r=0.7);// cutout for led
     translate([4.5,1.2,h_button])rotate([-90,0,0])cylinder(h=1,r1=1.3, r2=0.7);// cutout for led body
     
     translate([-25,-50,-25])cube([50,50,50]); //cutter cube for unused half
 }
+
 
  translate([0,-2.5,0])   //separate parts for printing 
  difference(){ //part 2
@@ -65,4 +69,3 @@ h_button=6; //height of button above tube
     
     translate([-25,0,-25])cube([50,50,50]); //cutter cube for unused half
 }
-
