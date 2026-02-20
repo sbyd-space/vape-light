@@ -6,6 +6,10 @@
 //License: CC BY 4.0
 //https://creativecommons.org/licenses/by/4.0/
 
+// ############################
+// ### FITS ELFBAR 600 (V1) ###
+// ############################
+
 $fn=128;  //resolution
 
 h_lower=5; //length of lower part inside the tube
