@@ -26,7 +26,7 @@ Images and visualizations are licensed under **CC BY 4.0**
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Licence: CERN OHL P 2.0](https://img.shields.io/badge/Licence-CERN_OHL_P_2.0-blue.svg)](https://ohwr.org/project/cernohl/-/wikis/Documents/CERN-OHL-version-2)
 
-The kit, workshop and zine were developed in the project ["Sustainability by Design"][sbyd] as part of the “Innovative University” funding line and is supported by the German Federal Ministry of Education and Research (BMBF) and the Joint Science Conference (GWK).
+The kit, workshop and zine were developed in the project ["Sustainability by Design"][sbyd] as part of the “Innovative University” funding line and is supported by the German Federal Ministry of Research, Technology and Space (BMFTR) and the Joint Science Conference (GWK).
 
 [zine]: https://sbyd.space/wp-content/uploads/2024/09/SBYD-Zine_3_WEB.pdf
 [sbyd]: https://sbyd.space/en/
